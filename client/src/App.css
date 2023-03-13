@@ -14,19 +14,10 @@
   margin: 0;
   padding: 0;
 }
-::selection{
-  background-color: rgb(97, 97, 126);
-}
+
 .App {
   text-align: center;
   padding: 4em 0;
-  margin: 0;
-  font-size: 32px;
-  padding: 8px;
-
-  margin-top: 0;
-  color: white;
-  background-color: rgb(10, 10, 53);
 }
 
 .bg-yellow{
